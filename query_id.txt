@@ -1,3 +1,1 @@
 query_id=AAEoyi89AwAAACjKLz1HY5sG&user=%7B%22id%22%3A7468993064%2C%22first_name%22%3A%22Wan%F0%9F%A6%B4%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22Brostar584%22%2C%22language_code%22%3A%22id%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1729179080&hash=d1fd1f41d67b3e578ccf87938a34b518df376c12be4fe5e489edb2bb2def1b36
-
-query_id=AAH4kdUvAwAAAPiR1S859TpV&user=%7B%22id%22%3A7244976632%2C%22first_name%22%3A%22Imah%F0%9F%8D%85%20%F0%9F%90%BC%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22Satra588%22%2C%22language_code%22%3A%22id%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1729155674&hash=f9e2ee99974e7a34b806ce6ea0e7381bb47d1b8a48ddc878ce33bfb4c18cce6a
