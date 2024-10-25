@@ -458,7 +458,7 @@ def animate_energy_recharge(duration):
             time.sleep(0.25)
     print("\r🔋 Energy charging complete.                            ", flush=True)
 
-cek_task_enable = 'y'
+cek_task_enable = 'n'
 
 while True:
     auto_booster = "y"
