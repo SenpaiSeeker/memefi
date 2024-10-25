@@ -461,14 +461,14 @@ def animate_energy_recharge(duration):
 cek_task_enable = 'n'
 
 while True:
-    auto_booster = input("UPDATED BY @D4rkCipherX,Use Energy Booster (default n) ? (y/n): ").strip().lower()
+    auto_booster = "y"
     if auto_booster in ['y', 'n', '']:
         auto_booster = auto_booster or 'n'
         break
     else:
         print("Enter 'y' or 'n'.")
 while True:
-    turbo_booster = input("Use Turbo Booster (default n) ? (y/n): ").strip().lower()
+    turbo_booster = "y"
     if turbo_booster in ['y', 'n', '']:
         turbo_booster = turbo_booster or 'n'
         break
@@ -477,7 +477,7 @@ while True:
 
 if turbo_booster == 'y':
     while True:
-        god_mode = input("Activate God Mode (1x tap monster dead) ? (y/n): ").strip().lower()
+        god_mode = "y"
         if god_mode in ['y', 'n', '']:
             god_mode = god_mode or 'n'
             break
